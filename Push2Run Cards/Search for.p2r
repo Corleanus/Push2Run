@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:33:42.9181729+01:00">
+  <Description>Search for</Description>
+  <ListenFor>look for $
+search for $</ListenFor>
+  <Open>https://www.google.com/search?q=$</Open>
+  <StartDirectory />
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

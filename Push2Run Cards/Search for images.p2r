@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:33:37.6575735+01:00">
+  <Description>Search for images</Description>
+  <ListenFor>find me a picture of $
+find me an image of $
+look for a picture of $
+search for images of $
+search for pictures of $
+show me the image of $
+show me the picture of $</ListenFor>
+  <Open>https://www.google.com/search?tbm=isch&amp;q=$</Open>
+  <StartDirectory />
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

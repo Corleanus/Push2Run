@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:02.2323521+01:00">
+  <Description>[System] Kill {executable name}</Description>
+  <ListenFor>kill $</ListenFor>
+  <Open>taskkill</Open>
+  <StartDirectory />
+  <Parameters>/IM $.exe</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>0</StartingWindowState>
+  <KeysToSend />
+</Card>

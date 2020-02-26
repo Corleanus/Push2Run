@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:34:33.3714022+01:00">
+  <Description>Ctrl+Shift+T Reopen tabs</Description>
+  <ListenFor>open my old tabs
+open old tabs
+open tabs from the last session
+open the old tabs
+reopen chrome tabs
+reopen my old tabs
+reopen old tabs
+reopen tabs
+reopen tabs from the last session</ListenFor>
+  <Open>C:\GoogleHome\nircmd.exe</Open>
+  <StartDirectory>C:\GoogleHome</StartDirectory>
+  <Parameters>sendkeypress 0x11+0x10+0x54</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>0</StartingWindowState>
+  <KeysToSend />
+</Card>

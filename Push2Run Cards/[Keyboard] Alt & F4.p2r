@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:25.971266+01:00">
+  <Description>[Keyboard] Alt &amp; F4</Description>
+  <ListenFor>close the app
+close the application
+close the folder
+close the program
+close this app</ListenFor>
+  <Open>C:\GoogleHome\nircmd.exe</Open>
+  <StartDirectory>C:\GoogleHome</StartDirectory>
+  <Parameters>sendkeypress 0x12+0x73</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>0</StartingWindowState>
+  <KeysToSend />
+</Card>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:33:23.5785552+01:00">
+  <Description>Discord</Description>
+  <ListenFor>open discord
+start discord</ListenFor>
+  <Open>Discord</Open>
+  <StartDirectory>C:\Users\Grigorije\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord</StartDirectory>
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

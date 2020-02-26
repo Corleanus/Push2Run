@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:33:46.1219528+01:00">
+  <Description>Restart</Description>
+  <ListenFor>reboot
+restart
+restart itself</ListenFor>
+  <Open>shutdown</Open>
+  <StartDirectory />
+  <Parameters>/r /t 1 /c "requested by home automation"</Parameters>
+  <StartWithAdminPrivileges>true</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

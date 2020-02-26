@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:33:33.1910282+01:00">
+  <Description>Set the computer volume</Description>
+  <ListenFor>change its volume to $
+change the volume to $
+make its volume $
+make the volume $
+set its volume to $
+set the volume to $</ListenFor>
+  <Open>C:\Program Files\SetVol\SetVol.exe</Open>
+  <StartDirectory>C:\Program Files\SetVol</StartDirectory>
+  <Parameters>$</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:34.3016039+01:00">
+  <Description>Reopen Chrome tab(s)</Description>
+  <ListenFor>open last tab
+open previous tabs
+reopen chrome tab
+reopen chrome tabs
+reopen previous chrome tab
+reopen previous chrome tabs
+reopen previous tab
+reopen previous tabs</ListenFor>
+  <Open>C:\GoogleHome\nircmd.exe</Open>
+  <StartDirectory>C:\GoogleHome</StartDirectory>
+  <Parameters>sendkeypress 0xA2+0xA0+0x54</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

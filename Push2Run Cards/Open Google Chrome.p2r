@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:18.4969402+01:00">
+  <Description>Open Google Chrome</Description>
+  <ListenFor>open google chrome</ListenFor>
+  <Open>chrome.exe</Open>
+  <StartDirectory>C:\Program Files (x86)\Google\Chrome\Application</StartDirectory>
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:10.3477318+01:00">
+  <Description>[Keyboard] Space</Description>
+  <ListenFor>press space
+press the space
+press the space button
+replay the song
+replay the video</ListenFor>
+  <Open>C:\GoogleHome\nircmd.exe</Open>
+  <StartDirectory>C:\GoogleHome</StartDirectory>
+  <Parameters>sendkey 0x20 press</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>0</StartingWindowState>
+  <KeysToSend />
+</Card>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:35:16.086488+01:00">
+  <Description>[Keyboard] Enter</Description>
+  <ListenFor>press enter
+press the enter
+press the enter button</ListenFor>
+  <Open>C:\GoogleHome\nircmd.exe</Open>
+  <StartDirectory>C:\GoogleHome</StartDirectory>
+  <Parameters>sendkey 0x0D press</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>0</StartingWindowState>
+  <KeysToSend />
+</Card>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-02-26T14:34:50.5129742+01:00">
+  <Description>Chrome</Description>
+  <ListenFor>open chrome
+open google
+open google chrome
+start chrome
+start google
+start google chrome</ListenFor>
+  <Open>chrome</Open>
+  <StartDirectory>C:\Program Files (x86)\Google\Chrome\Application\</StartDirectory>
+  <Parameters>https://google.com/search?q=$</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>
