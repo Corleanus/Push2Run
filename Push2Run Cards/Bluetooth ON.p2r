@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2020-03-02T04:46:57.646934+01:00">
+  <Description>Bluetooth ON</Description>
+  <ListenFor>turn on bluetooth
+turn on the bluetooth
+turn the bluetooth on</ListenFor>
+  <Open>btON.exe</Open>
+  <StartDirectory>C:\GoogleHome\Bluetooth</StartDirectory>
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
+</Card>
